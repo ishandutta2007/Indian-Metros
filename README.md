@@ -9,7 +9,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-Latest-blueviolet.svg?style=for-the-badge)](https://seaborn.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-An elegant data analysis and visualization tool that explores the economic scale of Indian metropolitan areas. This project processes local GDP data to identify, rank, and visualize states containing high-economic-output (>$10B USD GDP) metropolitan zones.
+An elegant 📊 data analysis and 🎨 visualization tool that explores the economic scale of Indian metropolitan areas. This project processes local GDP data to identify, rank, and visualize states containing high-economic-output (>$10B USD GDP) metropolitan zones.
 
 ---
 
@@ -22,7 +22,7 @@ An elegant data analysis and visualization tool that explores the economic scale
 
 ---
 
-## 📊 Sample Economic Visualization
+## 🖼️ Sample Economic Visualization
 
 The project maps out the distribution of these massive economic engines (GDP $\ge$ $10B) across various Indian States and Union Territories:
 
@@ -32,30 +32,30 @@ The project maps out the distribution of these massive economic engines (GDP $\g
 
 ---
 
-## 🛠️ Tech Stack & Dependencies
+## 🛠️ Tech Stack & 📚 Dependencies
 
 The project relies on standard Python data science libraries:
 
-*   **Python 3.8+**
-*   **Pandas** - Data manipulation & aggregation
-*   **Matplotlib & Seaborn** - High-fidelity chart plotting & styling
+*   🐍 **Python 3.8+**
+*   🐼 **Pandas** - Data manipulation & aggregation
+*   📊 **Matplotlib & Seaborn** - High-fidelity chart plotting & styling
 
 ---
 
-## ⚙️ Installation & Usage
+## ⚙️ Installation & 🏃 Usage
 
-### 1. Clone the repository and navigate to the project directory
+### 📥 1. Clone the repository and navigate to the project directory
 ```bash
 git clone https://github.com/ishandutta2007/Indian-Metros.git
 cd Indian-Metros
 ```
 
-### 2. Install required dependencies
+### 📦 2. Install required dependencies
 ```bash
 pip install pandas matplotlib seaborn
 ```
 
-### 3. Run the ranking script
+### ⚡ 3. Run the ranking script
 ```bash
 python states_ranked.py
 ```
