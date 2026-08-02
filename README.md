@@ -9,7 +9,12 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-Latest-blueviolet.svg?style=for-the-badge)](https://seaborn.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-An elegant 📊 data analysis and 🎨 visualization tool that explores the economic scale of Indian metropolitan areas. This project processes local GDP data to identify, rank, and visualize states containing high-economic-output (>$10B USD GDP) metropolitan zones.
+An elegant 📊 data analysis and 🎨 visualization tool that explores the economic scale of **Indian metropolitan areas**. This project processes local GDP statistics to identify, rank, and visualize states containing high-economic-output (>$10B USD GDP) metropolitan zones.
+
+### 🔍 Explore economic data for major Indian cities:
+* **Delhi NCR**, **Mumbai**, **Bengaluru**, **Chennai**, **Hyderabad**, **Kolkata**, **Ahmedabad**, **Pune**, and more.
+* Learn which Indian states host the highest number of cities with a GDP exceeding $10 Billion USD.
+* Perfect for researchers, students, and data analysts interested in the economic footprint and metropolitan development of India.
 
 ---
 
