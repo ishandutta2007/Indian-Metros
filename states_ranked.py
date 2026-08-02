@@ -6,7 +6,7 @@ import seaborn as sns
 # JSON data loaded from the Wikipedia source
 
 data = ""
-with open("data.json", "r", encoding="utf-8") as file:
+with open("data_2022_2023.json", "r", encoding="utf-8") as file:
     data = json.load(file)
 
 df = pd.DataFrame(data)
