@@ -4,10 +4,7 @@
 
 # 🇮🇳 Indian Metros Economy & GDP Analyzer
 
-[![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-darkgreen.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-Latest-blueviolet.svg?style=for-the-badge)](https://seaborn.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Pandas](https://img.shields.io/badge/Pandas-2.0+-darkgreen.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-Latest-blueviolet.svg?style=for-the-badge)](https://seaborn.pydata.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 An elegant 📊 data analysis and 🎨 visualization tool that explores the economic scale of **Indian metropolitan areas**. This project processes local GDP statistics to identify, rank, and visualize states containing high-economic-output (>$10B USD GDP) metropolitan zones.
 
