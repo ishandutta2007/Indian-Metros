@@ -1,0 +1,320 @@
+[
+  {
+    "rank": 1,
+    "metropolitan_area": "Delhi NCR",
+    "state": "Delhi NCT/Haryana/Uttar Pradesh",
+    "gdp_billion_usd": 186.14
+  },
+  {
+    "rank": 2,
+    "metropolitan_area": "Mumbai",
+    "state": "Maharashtra",
+    "gdp_billion_usd": 162.44
+  },
+  {
+    "rank": 3,
+    "metropolitan_area": "Bengaluru",
+    "state": "Karnataka",
+    "gdp_billion_usd": 112.42
+  },
+  {
+    "rank": 4,
+    "metropolitan_area": "Chennai",
+    "state": "Tamil Nadu",
+    "gdp_billion_usd": 91.53
+  },
+  {
+    "rank": 5,
+    "metropolitan_area": "Hyderabad",
+    "state": "Telangana",
+    "gdp_billion_usd": 80.06
+  },
+  {
+    "rank": 6,
+    "metropolitan_area": "Kolkata",
+    "state": "West Bengal",
+    "gdp_billion_usd": 75.21
+  },
+  {
+    "rank": 7,
+    "metropolitan_area": "Ahmedabad",
+    "state": "Gujarat",
+    "gdp_billion_usd": 67.28
+  },
+  {
+    "rank": 8,
+    "metropolitan_area": "Pune",
+    "state": "Maharashtra",
+    "gdp_billion_usd": 50.62
+  },
+  {
+    "rank": 9,
+    "metropolitan_area": "Surat",
+    "state": "Gujarat",
+    "gdp_billion_usd": 42.34
+  },
+  {
+    "rank": 10,
+    "metropolitan_area": "Coimbatore-Tiruppur",
+    "state": "Tamil Nadu",
+    "gdp_billion_usd": 32.5
+  },
+  {
+    "rank": 11,
+    "metropolitan_area": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "gdp_billion_usd": 21.07
+  },
+  {
+    "rank": 12,
+    "metropolitan_area": "Vadodara",
+    "state": "Gujarat",
+    "gdp_billion_usd": 20.68
+  },
+  {
+    "rank": 13,
+    "metropolitan_area": "Nagpur",
+    "state": "Maharashtra",
+    "gdp_billion_usd": 20.41
+  },
+  {
+    "rank": 14,
+    "metropolitan_area": "Jaipur",
+    "state": "Rajasthan",
+    "gdp_billion_usd": 18.13
+  },
+  {
+    "rank": 15,
+    "metropolitan_area": "Kochi",
+    "state": "Kerala",
+    "gdp_billion_usd": 15.78
+  },
+  {
+    "rank": 16,
+    "metropolitan_area": "Thrissur",
+    "state": "Kerala",
+    "gdp_billion_usd": 15.75
+  },
+  {
+    "rank": 17,
+    "metropolitan_area": "Andhra Pradesh Capital Region",
+    "state": "Andhra Pradesh",
+    "gdp_billion_usd": 14.79
+  },
+  {
+    "rank": 18,
+    "metropolitan_area": "Rajkot",
+    "state": "Gujarat",
+    "gdp_billion_usd": 14.09
+  },
+  {
+    "rank": 19,
+    "metropolitan_area": "Cuttack-Bhubaneswar",
+    "state": "Odisha",
+    "gdp_billion_usd": 14
+  },
+  {
+    "rank": 20,
+    "metropolitan_area": "Salem",
+    "state": "Tamil Nadu",
+    "gdp_billion_usd": 13.41
+  },
+  {
+    "rank": 21,
+    "metropolitan_area": "Malappuram",
+    "state": "Kerala",
+    "gdp_billion_usd": 12.97
+  },
+  {
+    "rank": 22,
+    "metropolitan_area": "Nashik",
+    "state": "Maharashtra",
+    "gdp_billion_usd": 12.48
+  },
+  {
+    "rank": 23,
+    "metropolitan_area": "Chandigarh",
+    "state": "Chandigarh/Haryana/Punjab",
+    "gdp_billion_usd": 11.7
+  },
+  {
+    "rank": 24,
+    "metropolitan_area": "Kozhikode",
+    "state": "Kerala",
+    "gdp_billion_usd": 11.51
+  },
+  {
+    "rank": 25,
+    "metropolitan_area": "Thiruvananthapuram",
+    "state": "Kerala",
+    "gdp_billion_usd": 11.58
+  },
+  {
+    "rank": 26,
+    "metropolitan_area": "Patna",
+    "state": "Bihar",
+    "gdp_billion_usd": 11.12
+  },
+  {
+    "rank": 27,
+    "metropolitan_area": "Kollam",
+    "state": "Kerala",
+    "gdp_billion_usd": 11
+  },
+  {
+    "rank": 28,
+    "metropolitan_area": "Lucknow",
+    "state": "Uttar Pradesh",
+    "gdp_billion_usd": 10.92
+  },
+  {
+    "rank": 29,
+    "metropolitan_area": "Madurai",
+    "state": "Tamil Nadu",
+    "gdp_billion_usd": 10.54
+  },
+  {
+    "rank": 30,
+    "metropolitan_area": "Asansol-Durgapur",
+    "state": "West Bengal",
+    "gdp_billion_usd": 10.48
+  },
+  {
+    "rank": 31,
+    "metropolitan_area": "Indore",
+    "state": "Madhya Pradesh",
+    "gdp_billion_usd": 10.02
+  },
+  {
+    "rank": 32,
+    "metropolitan_area": "Raipur",
+    "state": "Chhattisgarh",
+    "gdp_billion_usd": 9.97
+  },
+  {
+    "rank": 33,
+    "metropolitan_area": "Erode",
+    "state": "Tamil Nadu",
+    "gdp_billion_usd": 9.88
+  },
+  {
+    "rank": 34,
+    "metropolitan_area": "Aurangabad",
+    "state": "Maharashtra",
+    "gdp_billion_usd": 9.52
+  },
+  {
+    "rank": 35,
+    "metropolitan_area": "Mangaluru",
+    "state": "Karnataka",
+    "gdp_billion_usd": 9.49
+  },
+  {
+    "rank": 36,
+    "metropolitan_area": "Solapur",
+    "state": "Maharashtra",
+    "gdp_billion_usd": 9.17
+  },
+  {
+    "rank": 37,
+    "metropolitan_area": "Kolhapur",
+    "state": "Maharashtra",
+    "gdp_billion_usd": 8.86
+  },
+  {
+    "rank": 38,
+    "metropolitan_area": "Agra",
+    "state": "Uttar Pradesh",
+    "gdp_billion_usd": 8.76
+  },
+  {
+    "rank": 39,
+    "metropolitan_area": "Ludhiana",
+    "state": "Punjab",
+    "gdp_billion_usd": 8.7
+  },
+  {
+    "rank": 40,
+    "metropolitan_area": "Kannur",
+    "state": "Kerala",
+    "gdp_billion_usd": 8.64
+  },
+  {
+    "rank": 41,
+    "metropolitan_area": "Kanpur",
+    "state": "Uttar Pradesh",
+    "gdp_billion_usd": 8.19
+  },
+  {
+    "rank": 42,
+    "metropolitan_area": "Jamnagar",
+    "state": "Gujarat",
+    "gdp_billion_usd": 7.87
+  },
+  {
+    "rank": 43,
+    "metropolitan_area": "Mysuru",
+    "state": "Karnataka",
+    "gdp_billion_usd": 7.77
+  },
+  {
+    "rank": 44,
+    "metropolitan_area": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "gdp_billion_usd": 7.61
+  },
+  {
+    "rank": 45,
+    "metropolitan_area": "Meerut",
+    "state": "Uttar Pradesh",
+    "gdp_billion_usd": 7.08
+  },
+  {
+    "rank": 46,
+    "metropolitan_area": "Bhopal",
+    "state": "Madhya Pradesh",
+    "gdp_billion_usd": 6.84
+  },
+  {
+    "rank": 47,
+    "metropolitan_area": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "gdp_billion_usd": 6.58
+  },
+  {
+    "rank": 48,
+    "metropolitan_area": "Sangli",
+    "state": "Maharashtra",
+    "gdp_billion_usd": 6.52
+  },
+  {
+    "rank": 49,
+    "metropolitan_area": "Vellore",
+    "state": "Tamil Nadu",
+    "gdp_billion_usd": 6.16
+  },
+  {
+    "rank": 50,
+    "metropolitan_area": "Hubli–Dharwad",
+    "state": "Karnataka",
+    "gdp_billion_usd": 5.76
+  },
+  {
+    "rank": 51,
+    "metropolitan_area": "Dhanbad",
+    "state": "Jharkhand",
+    "gdp_billion_usd": 5.35
+  },
+  {
+    "rank": 52,
+    "metropolitan_area": "Kottayam",
+    "state": "Kerala",
+    "gdp_billion_usd": 5.16
+  },
+  {
+    "rank": 53,
+    "metropolitan_area": "Jamshedpur",
+    "state": "Jharkhand",
+    "gdp_billion_usd": 4.6
+  }
+]
