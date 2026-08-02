@@ -33,4 +33,5 @@ plt.title("Indian States with $10B+ GDP Metropolitan Areas (2022-23)", fontsize=
 plt.xlabel("Number of Cities", fontsize=11)
 plt.ylabel("State / UT", fontsize=11)
 plt.tight_layout()
+plt.savefig("assets/states_rank.png", bbox_inches="tight", dpi=150)
 plt.show()
